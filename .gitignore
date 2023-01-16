@@ -1,0 +1,6 @@
+# ignore caches 
+__pycache__
+
+# ignore data & tmp
+data/
+tmp/
